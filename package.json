@@ -3,7 +3,7 @@
 	"description": "Bento integraton for VS Code",
 	"version": "0.0.1",
 	"publisher": "Daghan Altas",
-	"repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-minimal-sample",
+	"repository": "https://github.com/daghan/bento_plugin",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
